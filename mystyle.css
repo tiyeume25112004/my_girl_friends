@@ -50,7 +50,7 @@ li {
     transform: rotateX(180deg) translateZ(50px);
     background-size: cover;
 }
-
+ 
 .minbox li:nth-child(3) {
     background: url('../images/minbox.jpg') no-repeat 0 0;
     transform: rotateX(-90deg) translateZ(50px);
